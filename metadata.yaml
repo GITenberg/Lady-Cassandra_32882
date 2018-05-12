@@ -1,0 +1,31 @@
+_repo: Lady-Cassandra_32882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaizey, George de Horne, Mrs.
+    aliases:
+    - Mansergh, Jessie
+    - Vaizey, Jessie Bell
+    - Vaizey, Mrs. George de Horne
+    birthdate: 1857
+    deathdate: 1917
+    gutenberg_agent_id: '9729'
+    url: http://www.gutenberg.org/2009/agents/9729
+    wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Lady Cassandra
+url: http://www.gutenberg.org/ebooks/32882
